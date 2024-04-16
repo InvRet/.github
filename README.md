@@ -1,4 +1,4 @@
 # .github
 Invest Rethink
 
-Shoe Me Your Code.
+Show Me Your Code.
